@@ -3,3 +3,4 @@ Seeing as Netflix doesn't publish their IP ranges I've spent some time getting a
 Mainly this is used to bypass my VPN I've go setup on pfSense at home in order for Netflix to actually work.
 
 This list will probably change as time goes by and new IPs come up.
+Feel free to suggest updates or changes.
